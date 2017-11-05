@@ -1,0 +1,12 @@
+unarr (1.0.1-1) UNRELEASED; urgency=low
+
+  * Update to 1.0.1
+  * This fixes a problem with libdir in libunarr.pc
+
+ -- Felix Kauselmann <licorn@gmail.com>  Sun, 05 Nov 2017 09:14:29 +0100
+
+unarr (1.0.0-2) UNRELEASED; urgency=low
+
+  * Initial release
+
+ -- Felix Kauselmann <licorn@gmail.com>  Fri, 08 May 2015 22:15:50 +0200

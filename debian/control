@@ -1,0 +1,18 @@
+Source: unarr
+Priority: optional
+Maintainer: Felix Kauselmann <licorn@gmail.com>
+Build-Depends: debhelper (>= 9), cmake, zlib1g-dev, libbz2-dev, liblzma-dev
+Standards-Version: 4.1.0
+Section: libs
+Homepage: https://github.com/selmf/unarr
+
+Package: libunarr-dev
+Section: libdevel
+Architecture: any
+Depends: libunarr (= ${binary:Version}), ${misc:Depends}
+Description: A decompression library for rar, zip and tar files. Development version.
+
+Package: libunarr
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A decompression library for rar, zip and tar files.
