@@ -1,2 +1,3 @@
 /usr/lib/*/pkgconfig/libunarr.pc
+/usr/lib/*/libunarr.so
 /usr/include/*
