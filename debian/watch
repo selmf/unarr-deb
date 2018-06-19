@@ -1,0 +1,2 @@
+version=4
+  https://github.com/selmf/unarr/releases .*/v?\d\S+/unarr-?(\d\S+)\.tar\.xz
