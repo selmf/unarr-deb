@@ -4,7 +4,7 @@ Source: https://github.com/selmf/unarr
 
 Files: *
 Copyright: 2014-2015 Simon Bünzli <zeniko@gmail.com>
-           2017 Felix Kauselmann <licorn@gmail.com>
+           2017-2018 Felix Kauselmann <licorn@gmail.com>
 License: LGPL-3.0+
 
 Files: lzmasdk/*
@@ -13,7 +13,7 @@ License: public-domain
  The files have been placed into public domain by the author.
 
 Files: debian/*
-Copyright: 2017 Felix Kauselmann <licorn@gmail.com>
+Copyright: 2017-2018 Felix Kauselmann <licorn@gmail.com>
 License: LGPL-3.0+
 
 License: LGPL-3.0+
